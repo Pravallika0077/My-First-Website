@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+}
+
+body{
+	background-image:url("bts3.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	/*background-position: center center;*/
+}
+
+
+h1{
+	padding: 7px 0;
+	text-align: center;
+	background: purple;
+	color: white;
+}
+h2{
+	margin: 10px 0 0 0 ;
+	color: pink;
+}
+p{
+	margin: 10px 0px 10px 30px;
+	color: white;
+	font-size: large;
+	font-style: italic;
+
+}
+h4{
+	color: white;
+	padding: 7px 0;
+	
+	margin: 10px 0 0 30px;
+
+}
+li{
+	color: white;
+	margin: 10px 0 0 30px;
+	padding: 7px 0;
+	list-style: circle;
+}
